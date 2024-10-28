@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FashionFoundry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70c34ff5475476fa6386e997adc1054867fb58b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FashionFoundry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FashionFoundry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,6 +17,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\USER\\source\\repos\\FashionFoundry\\wwwroot\\images\\item-1.jpg",
+      "PackagePath": "staticwebassets\\images\\item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\FashionFoundry\\wwwroot\\images\\item-2.jpg",
+      "PackagePath": "staticwebassets\\images\\item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\FashionFoundry\\wwwroot\\images\\item-4.jpg",
+      "PackagePath": "staticwebassets\\images\\item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\FashionFoundry\\wwwroot\\images\\item-5.jpg",
+      "PackagePath": "staticwebassets\\images\\item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\FashionFoundry\\wwwroot\\images\\item-6.jpg",
+      "PackagePath": "staticwebassets\\images\\item-6.jpg"
+    },
+    {
       "Id": "C:\\Users\\USER\\source\\repos\\FashionFoundry\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
